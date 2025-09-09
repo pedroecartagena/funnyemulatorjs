@@ -11,6 +11,7 @@ link.href = 'https://asset-cdn.schoology.com/sites/all/themes/schoology_theme/fa
 var HMR3_optionText = [
     "Please Choose", 
     "Custom URL",
+    "Deltarune",
     "Get More Roms",
     "Pokemon Clover", 
     "Pokemon Flora Sky", 
@@ -489,6 +490,7 @@ var HMR3_optionText = [
 var HMR3_optionValue = [
     "#", 
     "customlink",
+    "https://github.com/pedroecartagena/funnyemulatorjs/blob/main/roms/Deltarune60FPSHack.zip",
     "moreroms",
     "https://raw.githack.com/vbaemulator/GBA-Roms/main/Pokemon%20Clover%20v1.3.3.zip",
     "https://rawcdn.githack.com/srojam/gba/58893088e3805baaf716e0af6801aaeeae1a0efb/Binaries/pokemonflorasky.gba", 
@@ -1047,6 +1049,7 @@ var HMR3_HTML = [
 ]
 
 var HMR3_Multifile = [
+    "Deltarune",
     "Cookie Clicker",
     "Doom",
     "Ssspicy",
